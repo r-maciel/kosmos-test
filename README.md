@@ -9,7 +9,7 @@ Solución al reto técnico de KOSMOS para la creación de un cliente/servidor TC
 1. Clona el repositorio desde la terminal
 
 ```bash
-git clone https://github.com/r-maciel/python-sliding-window-protocol.git
+git clone https://github.com/r-maciel/kosmos-test.git
 ```
 
 2. Ingresa a la carpeta del repositorio que ha clonado
