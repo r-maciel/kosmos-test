@@ -72,3 +72,10 @@ python client.py
 ```
 
 - El servidor seguirá ejecutándose auqnue la conexión con el cliente termine, para terminar la ejecución del servidor, en la terminal en la que está ejecutando has `Ctrl` + `C`
+
+## Ejecutar con replit
+También puedes usar replit.com para ejecutar el codigo.
+
+1. Creas una cuenta en replit
+2. Haces un fork https://replit.com/@lmacielamador/kosmos-test
+3. Puedes continuar desde el paso 3 del apartado de instalación, las terminales en replit son las que dicen Shell
